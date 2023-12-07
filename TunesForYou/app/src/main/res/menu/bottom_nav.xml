@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/homeNav"
+        android:icon="@drawable/ic_baseline_home_24" />
+    <item android:title="My Playlists"
+        android:id="@+id/myPlaylistsNav"
+        android:icon="@drawable/ic_baseline_playlist_play_24"
+        android:iconTint="@color/white"/>
+</menu>
